@@ -1,0 +1,22 @@
+
+
+@media screen and (max-width: 360px) {
+   body {
+  margin: 0;
+  font-family: Arial,sans-serif;
+    }  
+}
+
+@media screen and (min-width: 361px) and (max-width: 1020px) {
+    body {
+  margin: 0;
+  font-family: monospace,sans-serif;
+    }
+}
+
+@media screen and (min-width: 1021px) {
+    body {
+  margin: 0;
+  font-family: monospace,sans-serif;
+    }
+}
